@@ -1,4 +1,0 @@
-<html>
-<title>Developers from Piła</title>
-<h1>Witamy</h1>
-</html>
